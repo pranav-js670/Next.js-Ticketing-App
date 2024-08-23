@@ -1,0 +1,60 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "title": "Fix the Footer Links",
+      "body": "The footer links on the homepage are broken and lead to 404 pages. Please update the URLs to ensure they direct users to the correct sections of the website. This is essential for improving user experience and SEO.",
+      "priority": "low",
+      "user_email": "john.doe@taskflow.com"
+    },
+    {
+      "id": "2",
+      "title": "Add a New Stylesheet",
+      "body": "We need a new stylesheet for the upcoming dark mode feature. The current design is only optimized for light mode, so this new stylesheet should include color variables and CSS rules for dark mode support.",
+      "priority": "medium",
+      "user_email": "jane.smith@taskflow.com"
+    },
+    {
+      "id": "3",
+      "title": "Resolve Mobile Navigation Bug",
+      "body": "The mobile navigation menu is not closing after selecting a menu item. This causes the menu to stay open, obstructing the content on the page. We need to implement a fix to ensure the menu collapses automatically after a selection.",
+      "priority": "high",
+      "user_email": "mark.jones@taskflow.com"
+    },
+    {
+      "id": "4",
+      "title": "Optimize Image Loading",
+      "body": "The homepage is loading images without proper compression, resulting in slower load times. Please implement lazy loading and optimize images to reduce the page load time and improve performance.",
+      "priority": "high",
+      "user_email": "lisa.wilson@taskflow.com"
+    },
+    {
+      "id": "5",
+      "title": "Update Privacy Policy",
+      "body": "The current privacy policy is outdated and needs to reflect recent changes in data protection laws. Please work with the legal team to update the content and ensure it's compliant with GDPR and other relevant regulations.",
+      "priority": "medium",
+      "user_email": "emma.brown@taskflow.com"
+    },
+    {
+      "id": "6",
+      "title": "Implement Two-Factor Authentication",
+      "body": "We need to add a two-factor authentication (2FA) option to the login process to enhance security. This feature should support both SMS and email verification methods.",
+      "priority": "high",
+      "user_email": "michael.green@taskflow.com"
+    },
+    {
+      "id": "7",
+      "title": "Fix Search Bar Auto-Complete",
+      "body": "The auto-complete function in the search bar is not working correctly, often suggesting irrelevant items. Please debug this feature to ensure it only suggests accurate and relevant search terms.",
+      "priority": "medium",
+      "user_email": "sarah.davis@taskflow.com"
+    },
+    {
+      "id": "8",
+      "title": "Add User Activity Tracking",
+      "body": "We need to implement a feature that tracks user activity across the platform, including login times, pages visited, and actions taken. This data will be crucial for analytics and improving user experience.",
+      "priority": "low",
+      "user_email": "robert.miller@taskflow.com"
+    }
+  ]
+}
